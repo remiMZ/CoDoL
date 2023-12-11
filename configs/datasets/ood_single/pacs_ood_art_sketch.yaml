@@ -1,0 +1,4 @@
+DATASET:
+  NAME: "PACSDG"
+  SOURCE_DOMAINS: ["art_painting"]
+  TARGET_DOMAINS: ["sketch"]

@@ -1,0 +1,9 @@
+DATASET:
+  NAME: "DomainNetDG"
+  SOURCE_DOMAINS: ["clipart", "infograph","quickdraw", "real", "sketch"]
+  SOURCE_DOMAINS_0: ["clipart"]
+  SOURCE_DOMAINS_1: ["infograph"]
+  SOURCE_DOMAINS_2: ["quickdraw"]
+  SOURCE_DOMAINS_3: ["real"]
+  SOURCE_DOMAINS_4: ["sketch"]
+  TARGET_DOMAINS: ["painting"]

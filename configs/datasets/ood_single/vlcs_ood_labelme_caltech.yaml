@@ -1,0 +1,4 @@
+DATASET:
+  NAME: "VLCSDG"
+  SOURCE_DOMAINS: ["labelme"]
+  TARGET_DOMAINS: ["caltech"]

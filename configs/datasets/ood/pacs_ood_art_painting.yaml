@@ -1,0 +1,7 @@
+DATASET:
+  NAME: "PACS"
+  SOURCE_DOMAINS: ["cartoon", "photo", "sketch"]
+  SOURCE_DOMAINS_0: ["cartoon"]
+  SOURCE_DOMAINS_1: ["photo"]
+  SOURCE_DOMAINS_2: ["sketch"]
+  TARGET_DOMAINS: ["art_painting"]

@@ -1,0 +1,4 @@
+DATASET:
+  NAME: "PACSDG"
+  SOURCE_DOMAINS: ["photo"]
+  TARGET_DOMAINS: ["sketch"]

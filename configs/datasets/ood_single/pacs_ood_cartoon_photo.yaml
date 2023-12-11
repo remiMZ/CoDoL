@@ -1,0 +1,4 @@
+DATASET:
+  NAME: "PACSDG"
+  SOURCE_DOMAINS: ["cartoon"]
+  TARGET_DOMAINS: ["photo"]

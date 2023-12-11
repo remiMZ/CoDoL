@@ -1,0 +1,7 @@
+DATASET:
+  NAME: "VLCS"
+  SOURCE_DOMAINS: ["caltech", "labelme", "pascal"]
+  SOURCE_DOMAINS_0: ["caltech"]
+  SOURCE_DOMAINS_1: ["labelme"]
+  SOURCE_DOMAINS_2: ["pascal"]
+  TARGET_DOMAINS: ["sun"]

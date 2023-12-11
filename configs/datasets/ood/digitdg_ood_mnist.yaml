@@ -1,0 +1,7 @@
+DATASET:
+  NAME: "DigitsDG"
+  SOURCE_DOMAINS: ["mnist_m", "svhn", "syn"]
+  SOURCE_DOMAINS_0: ["mnist_m"]
+  SOURCE_DOMAINS_1: ["svhn"]
+  SOURCE_DOMAINS_2: ["syn"]
+  TARGET_DOMAINS: ["mnist"]

@@ -1,0 +1,7 @@
+DATASET:
+  NAME: "OfficeHomeDG"
+  SOURCE_DOMAINS: ["art", "product", "real_world"]
+  SOURCE_DOMAINS_0: ["art"]
+  SOURCE_DOMAINS_1: ["product"]
+  SOURCE_DOMAINS_2: ["real_world"]
+  TARGET_DOMAINS: ["clipart"]
